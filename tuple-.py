@@ -1,0 +1,11 @@
+a = ("Hariharan",True,6,7)
+print(a)
+b = (1,2,3,4,5,6,7)
+print(b)
+b = b+(9,)
+print(b)
+c = (67,6,7,90,98)
+print(a.count(67))
+d = (5,6,8,7,1,2,7,0,6,7)
+slice = d[6:10]
+print(slice)
